@@ -1,4 +1,9 @@
 # BIBLIOTECA Backend
+![Express](https://img.shields.io/badge/Framework-Express-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-green)
+![Database](https://img.shields.io/badge/Database-MySQL-orange)
+![Language](https://img.shields.io/badge/Language-TypeScript-blue)
+![API Documentation](https://img.shields.io/badge/API%20Docs-Swagger-green)
 
 ## Descripción General
 El backend de **BIBLIOTECA** es un sistema de gestión diseñado para una biblioteca personal. Ofrece funcionalidades clave para la autenticación de usuarios y la administración de libros, incluyendo el inicio de sesión seguro, la gestión de la colección y la carga de imágenes de portada. Desarrollado con Node.js, Express, MySQL y TypeScript, este sistema facilita la organización y el control de los libros en una biblioteca privada.

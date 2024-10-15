@@ -1,5 +1,12 @@
 # BIBLIOTECA Backend
 
+![Express](https://img.shields.io/badge/Framework-Express-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-green)
+![Database](https://img.shields.io/badge/Database-MySQL-orange)
+![Language](https://img.shields.io/badge/Language-TypeScript-blue)
+![API Documentation](https://img.shields.io/badge/API%20Docs-Swagger-green)
+
+
 ## Overview
 The backend of **BIBLIOTECA** is a management system designed for a personal library. It provides key functionalities for user authentication and book management, including secure login, collection management, and cover image uploads. Built with Node.js, Express, MySQL, and TypeScript, this system facilitates the organization and control of books in a private library.
 
