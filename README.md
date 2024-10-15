@@ -1,4 +1,9 @@
 # BIBLIOTECA: Library Management System Backend
+![Express](https://img.shields.io/badge/Framework-Express-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-green)
+![Database](https://img.shields.io/badge/Database-MySQL-orange)
+![Language](https://img.shields.io/badge/Language-TypeScript-blue)
+![API Documentation](https://img.shields.io/badge/API%20Docs-Swagger-green)
 
 Welcome to the **BIBLIOTECA** Library Management System Backend! You can find detailed information in the following languages:
 
